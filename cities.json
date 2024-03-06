@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Constantin Daicoviciu",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-03-06T12:12:18.665Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "45.521743896993634",
+        "lng": "22.104492187500004"
       },
-      "id": 17806751
+      "id": 1
     },
     {
-      "cityName": "Lukavica",
-      "country": "Bosnia and Herzegovina",
-      "emoji": "🇧🇦",
-      "date": "2024-03-05T15:45:53.735Z",
+      "cityName": "Rheinfelden",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-03-06T12:12:22.249Z",
       "notes": "",
       "position": {
-        "lat": "43.75522505306928",
-        "lng": "18.457031250000004"
+        "lat": "47.56170075451973",
+        "lng": "7.778320312500001"
       },
-      "id": 73930386
+      "id": 3
+    },
+    {
+      "cityName": "Chapdeuil",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-06T12:12:24.281Z",
+      "notes": "",
+      "position": {
+        "lat": "45.3521452458518",
+        "lng": "0.46142578125000006"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Kraljevo",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2024-03-06T12:13:51.466Z",
+      "notes": "",
+      "position": {
+        "lat": "43.8503744993026",
+        "lng": "20.895996093750004"
+      },
+      "id": 5
     }
   ]
 }
