@@ -3,7 +3,7 @@ import { useAuth } from "../contexts/FakeAuthContext";
 import { useNavigate } from "react-router-dom";
 
 function User() {
-  const { user, isAuthenticated, login, logout } = useAuth();
+  const { user, logout } = useAuth();
   const navigate = useNavigate();
   function handleClick() {
     logout();
