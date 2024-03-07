@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Constantin Daicoviciu",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2024-03-06T12:12:18.665Z",
-      "notes": "",
-      "position": {
-        "lat": "45.521743896993634",
-        "lng": "22.104492187500004"
-      },
-      "id": 1
-    },
-    {
       "cityName": "Rheinfelden",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -37,16 +25,28 @@
       "id": 4
     },
     {
-      "cityName": "Kraljevo",
-      "country": "Serbia",
-      "emoji": "🇷🇸",
-      "date": "2024-03-06T12:13:51.466Z",
+      "cityName": "Bicazu Ardelean",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-03-07T11:36:52.704Z",
       "notes": "",
       "position": {
-        "lat": "43.8503744993026",
-        "lng": "20.895996093750004"
+        "lat": "46.89023157359399",
+        "lng": "25.8837890625"
       },
-      "id": 5
+      "id": 6
+    },
+    {
+      "cityName": "Voinesti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-03-07T11:42:50.424Z",
+      "notes": "",
+      "position": {
+        "lat": "45.042478050891546",
+        "lng": "25.290527343750004"
+      },
+      "id": 7
     }
   ]
 }
